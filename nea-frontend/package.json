@@ -1,0 +1,29 @@
+{
+  "name": "nea",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@wangeditor/editor": "^5.1.23",
+    "@wangeditor/editor-for-vue": "^5.1.12",
+    "axios": "^1.7.2",
+    "jwt-decode": "^4.0.0",
+    "photoswipe": "^5.4.4",
+    "pinia": "^2.1.7",
+    "sass": "^1.71.1",
+    "vue": "^3.4.15",
+    "vue-froala-wysiwyg": "^4.2.0",
+    "vue-router": "^4.2.5",
+    "vue-yandex-maps": "^2.0.1",
+    "vue3-cookies": "^1.0.6"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.3",
+    "vite": "^5.0.11"
+  }
+}
